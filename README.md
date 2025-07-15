@@ -61,7 +61,7 @@ A machine learning model developed to classify news articles as 'real' or 'fake'
 Participated in a Kaggle Monthly Machine Learning Competition where I developed an **XGClassifier** model to predict whether a person is introverted or extroverted. Achieved **97% accuracy**, demonstrating strong performance in a competitive environment and proficiency with advanced ensemble methods.
 
 -   **Technologies:** Python, XGBoost, Pandas, NumPy
--   **Repository:** [Link to your Kaggle Competition Project Repo](https://github.com/yourusername/Kaggle-Introvert-Extrovert-Prediction)
+-   **Repository:** [Link to your Kaggle Competition Project Repo](https://github.com/kailash-N/Kaggle_Personality_Predictor)
 
 ---
 
