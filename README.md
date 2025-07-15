@@ -52,7 +52,7 @@ A machine learning model developed to classify news articles as 'real' or 'fake'
 
 -   **Technologies:** Python, scikit-learn, Pandas, NumPy
 -   **Repository:** [Link to your Fake News Detection Project Repo](https://github.com/kailash-N/fake_news_classification)
--   ![Fake News Detection Demo](https://link-to-your-hosted-animated-gif-for-fakenews.gif)
+
 
 ---
 
