@@ -51,7 +51,7 @@ Here are a few projects that highlight my capabilities and interests:
 A machine learning model developed to classify news articles as 'real' or 'fake' using **Logistic Regression** and **scikit-learn**. This project demonstrates my ability to preprocess text data, train classification models, and evaluate their performance.
 
 -   **Technologies:** Python, scikit-learn, Pandas, NumPy
--   **Repository:** [Link to your Fake News Detection Project Repo](https://github.com/yourusername/Fake-News-Detection)
+-   **Repository:** [Link to your Fake News Detection Project Repo](https://github.com/kailash-N/fake_news_classification)
 -   ![Fake News Detection Demo](https://link-to-your-hosted-animated-gif-for-fakenews.gif)
 
 ---
