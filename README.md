@@ -79,7 +79,7 @@ An automation solution built with **UiPath** to read and extract important detai
 A simple yet effective quiz application developed in **Python**, designed for Harvard's CS50p course. This project highlights my foundational programming skills and ability to create interactive command-line tools.
 
 -   **Technologies:** Python
--   **Repository:** [Link to your Quiz App Project Repo](https://github.com/yourusername/Quiz-App)
+-   **Repository:** [CS50](https://github.com/code50/144771371)
 
 ---
 
